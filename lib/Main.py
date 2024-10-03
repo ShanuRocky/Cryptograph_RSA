@@ -55,7 +55,7 @@ def console(user):
             os.system("clear")
 
         elif inp == "help":
-            f = open("../helpMenu.txt")
+            f = open("../helpmenu.txt")
             a = f.readlines()
             f.close()
             for i in a:
