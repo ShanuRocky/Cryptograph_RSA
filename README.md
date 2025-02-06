@@ -1,4 +1,4 @@
-# RSA Cipher Machine (2018)
+# RSA Cipher Machine (2024)
 I started this project because I have a great interest in cryptography. This year I learned the RSA algorithm and decided to implement it in a program / library.
 
 ## My journey
